@@ -5,8 +5,8 @@
 -I recently graduated with a **B.E. in Mechanical Engineering** from Loyola ICAM College of Engineering and Technology.  
 
 ###  What I'm Currently Doing
-- Practising **Data Structures & Algorithms (DSA)**
-- Building projects using **Java, JavaScript, React, HTML & CSS**
+- Practising **Data Structures & Algorithms **
+- Building projects using **Java, JavaScript,React, React Native, HTML & CSS**
 - Exploring backend + cloud tools like **Firebase** and **GitLab**
 
 ---
