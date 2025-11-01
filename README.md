@@ -1,8 +1,8 @@
 # 👋 Hi there — I'm **Lenin** <img align="right" width="320" height="260" src="https://github.com/samadpls/Programing-Gifs/blob/main/public/gifs/pic1.gif" alt="Coding animation">
 
-**Aspiring Software Engineer • DSA Enthusiast • Problem Solver**
+### Aspiring Software Engineer • DSA Enthusiast • Problem Solver ###
 
-I recently graduated with a **B.E. in Mechanical Engineering** from *Loyola-ICAM College of Engineering and Technology*.  
+-I recently graduated with a **B.E. in Mechanical Engineering** from Loyola ICAM College of Engineering and Technology.  
 
 ###  What I'm Currently Doing
 - Practising **Data Structures & Algorithms (DSA)**
