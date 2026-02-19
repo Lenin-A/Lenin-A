@@ -6,7 +6,7 @@
 
 ###  What I'm Currently Doing
 - Practising Data Structures & Algorithms
-- Building projects using **Java, JavaScript,React, React Native, HTML & CSS**
+- Building projects using **Java, JavaScript,React JS, React Native, HTML & CSS**
 - Exploring backend + cloud tools like **Firebase** and **GitLab**
 
 ---
